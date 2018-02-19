@@ -107,7 +107,7 @@ A partir los insights, se procedió a lo siguiente:
      ![](assets/documents/user-flow.png)
 
 ### **MVP**
------
+___
 
 ### **Feature List:**
     Muestra las características priorizadas según la necesidad de nuestro usuario.
