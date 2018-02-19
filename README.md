@@ -106,7 +106,7 @@ A partir los insights, se procedió a lo siguiente:
 
      ![](assets/documents/user-flow.png)
 
-# **MVP**
+### **MVP**
 -----
 
 ### **Feature List:**
