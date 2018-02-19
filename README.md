@@ -173,7 +173,7 @@ La plataforma logra cumplir con los objetivos porque es fácil de usar, puesto q
 ### **Enlaces Adicionales:**
    *  _Organización de actividades:_ [Trello](https://trello.com/b/lZvUFreL/la-traves%C3%ADa-por-un-boleto)
 
-   * [Presentación Final](https://docs.google.com/presentation/d/16ltvKofrhhiAbmpmrVNZH4uVJ3n71ZjQd2yDUKQhAtQ/edit#slide=id.g30ddff6f68_0_57)
+   * [Presentación Final](https://docs.google.com/presentation/d/16ltvKofrhhiAbmpmrVNZH4uVJ3n71ZjQd2yDUKQhAtQ/edit?usp=sharing)
 
 ### **Elaborado por: UXperts**
 * [Franshesca Quezada](https://github.com/franshescaqm)
