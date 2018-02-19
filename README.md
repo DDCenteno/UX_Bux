@@ -9,7 +9,7 @@ La Terminal es una plataforma de venta de boletos de viaje vía terrestre. Dise�
 
 [Laboratoria](http://www.laboratoria.la/)
 
-## **Objetivo:**
+## Objetivo:
 
 Diseñar la plataforma de venta de boletos de buses más intuitiva y amigable para el usuario.
 
