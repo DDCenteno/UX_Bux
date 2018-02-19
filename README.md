@@ -21,7 +21,7 @@ Para llevar a cabo el reto se siguió el proceso de UXD:
 
 ## **Descubrimiento e Investigación**
 
-### **User Research**:
+### **User Research:**
 
 Metodologías utilizadas:
 
@@ -51,29 +51,29 @@ _Fotos de la investigación:_  [Click](https://photos.google.com/share/AF1QipNhj
 
 A partir los insights, se procedió a lo siguiente:
 
-- ###  **Mapas de Afinidad (Affinity maps):**
+###  **Mapas de Afinidad (Affinity maps):**
 
     Mediante este, se agruparon los comentarios de los usuarios en siete aspectos claves: 
     Uso del internet, compra en agencias, servicios, temores de los usuarios, experiencia de viaje, costo de servicios y recomendaciones.
 
     ![Mapa de afinidad](assets/documents/Afinidad.jpg)
 
-- ### **Selección del problema:** 
+### **Selección del problema:** 
 
     Debido a que se notó un gran contraste entre los usuarios que compran sus pasajes vía internet vs. los que compran directamente en las agencias, se optó por elegir dicha problemática: ¿Por qué los peruanos no compran sus pasajes por internet?.
 
-- ### **Definición del problema:**
+### **Definición del problema:**
     Las respuestas que más usuarios nos dieron fue la siguiente: "No compro por internet porque me da miedo ser estafado". Y es precisamente ésta una de las razones por las que el peruano promedio no compra por internet. El usuario peruano siente desconfianza, inseguridad y en muchos casos no está familiarizado con las plataformas de compras por internet.
 
 ## **Ideación**
 
-- ### **User Persona:**
+### **User Persona:**
     Se elaboró el siguiente perfil de nuestro público objetivo en base a la información de nuestros usuarios. 
      
     * _Juan, 32_: 
     ![UserPersona](assets/documents/UserPerson.PNG)
 
-- ### **Problem Statements:**
+### **Problem Statements:**
     Los siguientes enunciados se apoyan en las necesidades de nuestro User Persona.
 
     - Juan necesita una plataforma segura que ofrezca servicios confiables, ya que teme ser estafado.
@@ -82,26 +82,26 @@ A partir los insights, se procedió a lo siguiente:
 
     - Juan necesita un modo fácil y rápido de comprar sus boletos de viaje por internet para ahorrar tiempo.
 
-- ### **HMW (How Might We o ¿Cómo podríamos?):**
+### **HMW (How Might We o ¿Cómo podríamos?):**
     Se formularon las siguientes preguntas con el fin de entender mejor los problemas y desarrollar mejores hipótesis. 
 
     -  ¿Cómo podríamos hacer que nuestro usuario confíe en nuestra plataforma de venta de boletos?
 
     - ¿Cómo podríamos hacer fácil y entendible el proceso de compra de boletos online?
 
-- ### **WHAT IF?:**
+### **WHAT IF?:**
     Se plantearon los siguientes enunciados que nos ayudarán a considerar nuevos actores o circunstancias en el contexto del usuario.
 
     - WHAT IF dentro del proceso solo incluímos a empresas confiables.
 
     - WHAT IF el usuario no quiere pagar por internet. 
 
-- ### **STORYTELLING:**
+### **STORYTELLING:**
     Nos permite entender las necesidades del usuario y empatizar con él.
 
     Enlace: [Click](https://onedrive.live.com/view.aspx?resid=AE7D39D044B5FE3A!123&ithint=file%2cdocx&app=Word&authkey=!ANVVkkEzNcjSrp4)
 
-- ### **USER FLOW:**
+### **USER FLOW:**
     Nos da un mayor entendimiendo de la experiencia que el usuario tiene con el flujo de nuestra plataforma.
 
      ![](assets/documents/user-flow.png)
@@ -109,7 +109,7 @@ A partir los insights, se procedió a lo siguiente:
 # **MVP**
 -----
 
-- ### **Feature List:**
+### **Feature List:**
     Muestra las características priorizadas según la necesidad de nuestro usuario.
 
     - Input de origen y destino del viaje.
@@ -122,12 +122,12 @@ A partir los insights, se procedió a lo siguiente:
     - Detalles de la compra realizada por el usuario (enviada al correo)
     - En caso de reservas, se envía un código al usuario para que pague en la terminal.
 
-- ### **Storyboard:**
+### **Storyboard:**
     Narra la visión de cómo será usada nuestra plataforma.
     
     ![Storyboard](assets/documents/SBVer2.jpg)
 
-- ### **Content Prototyping:**
+### **Content Prototyping:**
     En el siguiente enlace se muestra el flujo que tendrá nuestra plataforma.
     Siendo la primera versión, la inicial; y la segunda, la versión mejorada:
 
@@ -181,4 +181,3 @@ La plataforma logra cumplir con los objetivos porque es fácil de usar, puesto q
 * [Yasmin Mattos](https://github.com/YasminMattos)
 * [Priscila Rojas](https://github.com/Priscilarojas)
 * [Daniela Centeno](https://github.com/DDCenteno)
-
