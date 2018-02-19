@@ -1,5 +1,5 @@
 # La Terminal
----
+___
 'La Terminal' Es una plataforma de venta de boletos de viaje vía terrestre. Diseñada para usuarios que buscan facilidad y rapidez en su compra.
 
 ![image](https://user-images.githubusercontent.com/30356026/36331062-5b3874ac-133a-11e8-9192-7002fa962ffe.png)
